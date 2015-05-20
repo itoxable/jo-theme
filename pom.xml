@@ -88,7 +88,7 @@
 		</dependency>
 	</dependencies>
 	<properties>
-		<liferay.theme.parent>_styled</liferay.theme.parent>
+		<liferay.theme.parent>classic</liferay.theme.parent>
 		<liferay.theme.type>vm</liferay.theme.type>
 		<liferay.auto.deploy.dir>C:/dev/liferay-portal-6.2-ce-ga3/deploy</liferay.auto.deploy.dir>
 		<liferay.app.server.deploy.dir>C:/dev/liferay-portal-6.2-ce-ga3/tomcat-7.0.42/webapps</liferay.app.server.deploy.dir>
